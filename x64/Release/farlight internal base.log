@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+C:\Users\pouk\Desktop\farlight84-cheat-ReFo\farlight internal base\dllmain.cpp(6,11): error C2374: 'uworld_sig': redefinição; várias inicializações
+      C:\Users\pouk\Desktop\farlight84-cheat-ReFo\farlight internal base\cheat\func.h(7,6):
+      consulte a declaração de 'uworld_sig'
+  
